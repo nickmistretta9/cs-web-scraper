@@ -1,0 +1,11 @@
+C:\Users\Nicholas Mistretta\Desktop\C#\Web Scraper\WebScraper\bin\Debug\netcoreapp2.0\WebScraper.deps.json
+C:\Users\Nicholas Mistretta\Desktop\C#\Web Scraper\WebScraper\bin\Debug\netcoreapp2.0\WebScraper.runtimeconfig.json
+C:\Users\Nicholas Mistretta\Desktop\C#\Web Scraper\WebScraper\bin\Debug\netcoreapp2.0\WebScraper.runtimeconfig.dev.json
+C:\Users\Nicholas Mistretta\Desktop\C#\Web Scraper\WebScraper\bin\Debug\netcoreapp2.0\WebScraper.dll
+C:\Users\Nicholas Mistretta\Desktop\C#\Web Scraper\WebScraper\bin\Debug\netcoreapp2.0\WebScraper.pdb
+C:\Users\Nicholas Mistretta\Desktop\C#\Web Scraper\WebScraper\obj\Debug\netcoreapp2.0\WebScraper.csprojResolveAssemblyReference.cache
+C:\Users\Nicholas Mistretta\Desktop\C#\Web Scraper\WebScraper\obj\Debug\netcoreapp2.0\WebScraper.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas Mistretta\Desktop\C#\Web Scraper\WebScraper\obj\Debug\netcoreapp2.0\WebScraper.AssemblyInfoInputs.cache
+C:\Users\Nicholas Mistretta\Desktop\C#\Web Scraper\WebScraper\obj\Debug\netcoreapp2.0\WebScraper.AssemblyInfo.cs
+C:\Users\Nicholas Mistretta\Desktop\C#\Web Scraper\WebScraper\obj\Debug\netcoreapp2.0\WebScraper.dll
+C:\Users\Nicholas Mistretta\Desktop\C#\Web Scraper\WebScraper\obj\Debug\netcoreapp2.0\WebScraper.pdb
