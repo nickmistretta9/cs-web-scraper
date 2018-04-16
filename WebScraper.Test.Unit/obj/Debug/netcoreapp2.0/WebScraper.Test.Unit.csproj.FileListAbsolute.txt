@@ -1,0 +1,16 @@
+C:\Users\Nicholas Mistretta\Desktop\C#\Web Scraper\WebScraper.Test.Unit\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Nicholas Mistretta\Desktop\C#\Web Scraper\WebScraper.Test.Unit\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Nicholas Mistretta\Desktop\C#\Web Scraper\WebScraper.Test.Unit\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Nicholas Mistretta\Desktop\C#\Web Scraper\WebScraper.Test.Unit\bin\Debug\netcoreapp2.0\WebScraper.Test.Unit.deps.json
+C:\Users\Nicholas Mistretta\Desktop\C#\Web Scraper\WebScraper.Test.Unit\bin\Debug\netcoreapp2.0\WebScraper.Test.Unit.runtimeconfig.json
+C:\Users\Nicholas Mistretta\Desktop\C#\Web Scraper\WebScraper.Test.Unit\bin\Debug\netcoreapp2.0\WebScraper.Test.Unit.runtimeconfig.dev.json
+C:\Users\Nicholas Mistretta\Desktop\C#\Web Scraper\WebScraper.Test.Unit\bin\Debug\netcoreapp2.0\WebScraper.Test.Unit.dll
+C:\Users\Nicholas Mistretta\Desktop\C#\Web Scraper\WebScraper.Test.Unit\bin\Debug\netcoreapp2.0\WebScraper.Test.Unit.pdb
+C:\Users\Nicholas Mistretta\Desktop\C#\Web Scraper\WebScraper.Test.Unit\bin\Debug\netcoreapp2.0\WebScraper.dll
+C:\Users\Nicholas Mistretta\Desktop\C#\Web Scraper\WebScraper.Test.Unit\bin\Debug\netcoreapp2.0\WebScraper.pdb
+C:\Users\Nicholas Mistretta\Desktop\C#\Web Scraper\WebScraper.Test.Unit\obj\Debug\netcoreapp2.0\WebScraper.Test.Unit.csprojResolveAssemblyReference.cache
+C:\Users\Nicholas Mistretta\Desktop\C#\Web Scraper\WebScraper.Test.Unit\obj\Debug\netcoreapp2.0\WebScraper.Test.Unit.csproj.CoreCompileInputs.cache
+C:\Users\Nicholas Mistretta\Desktop\C#\Web Scraper\WebScraper.Test.Unit\obj\Debug\netcoreapp2.0\WebScraper.Test.Unit.AssemblyInfoInputs.cache
+C:\Users\Nicholas Mistretta\Desktop\C#\Web Scraper\WebScraper.Test.Unit\obj\Debug\netcoreapp2.0\WebScraper.Test.Unit.AssemblyInfo.cs
+C:\Users\Nicholas Mistretta\Desktop\C#\Web Scraper\WebScraper.Test.Unit\obj\Debug\netcoreapp2.0\WebScraper.Test.Unit.dll
+C:\Users\Nicholas Mistretta\Desktop\C#\Web Scraper\WebScraper.Test.Unit\obj\Debug\netcoreapp2.0\WebScraper.Test.Unit.pdb
